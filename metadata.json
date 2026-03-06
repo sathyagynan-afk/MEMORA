@@ -1,0 +1,5 @@
+{
+  "name": "MindGuard AI",
+  "description": "AI-powered mental health monitoring and counselor alert system with real-time risk detection and counselor dashboards.",
+  "requestFramePermissions": ["microphone"]
+}
